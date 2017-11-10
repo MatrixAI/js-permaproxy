@@ -41,5 +41,3 @@ Once you've updated the package run this:
 npm version <update_type>
 npm publish
 ```
-
-Note that currently the browser target in rollup does not work: https://github.com/rollup/rollup-plugin-babel/issues/161
